@@ -1,0 +1,16 @@
+body {
+    background-size: 100%;
+}
+.container{
+    top: 100%;
+    text-align: center;
+    background-color: yellow;
+}
+.name {
+    width: 300px;
+}
+canvas {
+    background-color: yellow;
+    border: inset;
+    margin-top: 250px;
+}
